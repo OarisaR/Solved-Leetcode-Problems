@@ -6,7 +6,7 @@ public:
         int mx = 0;
         int sum = 0;
         for (int i = 0; i < n - 1; i++) {
-            sum = abs(nums[i] - nums[i + 1]);
+            sum = nums[i + 1 - nums[i]
             mx = max(mx, sum);
         }
         return mx;
