@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,9 +118,11 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
