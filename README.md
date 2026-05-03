@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
+| [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +130,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 <!---LeetCode Topics End-->
