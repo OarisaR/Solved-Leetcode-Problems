@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
+| [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
 | [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Bucket Sort
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,15 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
 | [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
 <!---LeetCode Topics End-->
