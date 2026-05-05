@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Math
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
