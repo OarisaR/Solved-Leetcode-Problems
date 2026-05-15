@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
