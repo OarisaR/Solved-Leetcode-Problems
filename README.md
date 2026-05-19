@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -187,5 +188,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 <!---LeetCode Topics End-->
