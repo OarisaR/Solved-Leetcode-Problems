@@ -1,21 +1,17 @@
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
-        map<int, int> mp;
-        for (int& num : nums1)
-            mp[num]++;
-        for (int& num : nums2)
-            mp[num]++;
-        for (auto it : mp) {
-            // cout<<"( "<<it.first<<" - "<<it.second<<endl;
-            if (it.second > 1) {
-                if ((find(nums1.begin(), nums1.end(), it.first) !=
-                     nums1.end()) &&
-                    (find(nums2.begin(), nums2.end(), it.first) !=
-                     nums2.end())) {
-                    return it.first;
-                }
-            }
+        int i = 0, j = 0;
+        int n = nums1.size();
+        int m = nums2.size();
+        while (i < n && j < m) {
+            if (nums1[i] == nums2[j])
+                return nums1[i];
+            else if (nums1[i] < nums2[j]) {
+                i++; // as nums2 is large we need to increment nums1 to match a
+                     // bigger num
+            } else
+                j++;
         }
         return -1;
     }
