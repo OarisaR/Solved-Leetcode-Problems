@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,12 +92,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
