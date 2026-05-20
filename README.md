@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -193,5 +194,18 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 <!---LeetCode Topics End-->
