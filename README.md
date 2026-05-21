@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
