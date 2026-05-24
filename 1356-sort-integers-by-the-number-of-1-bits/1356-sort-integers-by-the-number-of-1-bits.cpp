@@ -4,17 +4,32 @@
 */
 class Solution {
 public:
-   static bool cmp(int a, int b) {
-    int ca = __builtin_popcount(a);
-    int cb = __builtin_popcount(b);
-
-    if (ca == cb)
-        return a < b;   // ascending when popcounts are equal
-
-    return ca < cb;     // fewer set bits comes first
-}
+    int count_of_one(int a) {
+        int cnt = 0;
+        while (a != 0) {
+            cnt += (a & 1);
+            a = a >> 1;
+            
+        }
+        return cnt;
+    }
     vector<int> sortByBits(vector<int>& arr) {
-        sort(arr.begin(),arr.end(),cmp);
+        // using lamda
+        //  return_type name = [capture_clause](params){};
+
+        // capture clause is able to capture any variable declared outside (by
+        // reference, not copy)
+
+        // here & captures all func outside lambda!, without using this , it causes error.
+        auto lamda = [&](int &a, int &b) {
+            int ca = count_of_one(a);
+            int cb = count_of_one(b);
+            if (ca == cb)
+                return a < b;
+            
+            return ca < cb;
+        };
+        sort(arr.begin(), arr.end(), lamda);
         return arr;
-    }   
+    }
 };
