@@ -11,7 +11,7 @@ public:
         // so, do xor of only nums appearing odd times;
         int m = nums1.size();
         int n = nums2.size();
-        unordered_map<int, long long> mp;
+        unordered_map<int, long> mp;
         for (int &num : nums1) {
             mp[num] += n;
         }
