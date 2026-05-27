@@ -16,16 +16,18 @@ public:
         for (int i = 0; i < word.size(); i++) {
             if (islower(word[i])) {
                 lastlow[word[i] - 'a'] = i;
+            } else {
+                if (firstupp[word[i] - 'A'] == -1) {
+                    firstupp[word[i] - 'A'] = i;
+                }
             }
         }
-        for (int i = 0; i < word.size(); i++) {
-            if (isupper(word[i]) && firstupp[word[i] - 'A'] == -1) {
-                firstupp[word[i] - 'A'] = i;
-            }
-        }
+
         for (int i = 0; i < 26; i++) {
-            if (firstupp[i]!=-1 && lastlow[i]!=-1 && firstupp[i] > lastlow[i])
-               { cnt++;}
+            if (firstupp[i] != -1 && lastlow[i] != -1 &&
+                firstupp[i] > lastlow[i]) {
+                cnt++;
+            }
         }
         return cnt;
     }
