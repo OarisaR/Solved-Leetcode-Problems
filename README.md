@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Greedy
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
