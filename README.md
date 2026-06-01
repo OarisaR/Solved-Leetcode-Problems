@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
+| [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Rolling Hash
