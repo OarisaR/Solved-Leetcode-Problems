@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
