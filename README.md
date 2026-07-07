@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
