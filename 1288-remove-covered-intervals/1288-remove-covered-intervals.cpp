@@ -14,11 +14,11 @@ public:
         int cnt = 1; // one is always taken.
         int lastEnd = intervals[0][1];
         for (int i = 1; i < n; i++) {
-            if (intervals[i][1] > lastEnd) {
-                lastEnd = intervals[i][1]; // new end updated
-                cnt++;
-            } else
+            if (intervals[i][1] <= lastEnd) {
                 continue;
+            }
+            lastEnd = intervals[i][1]; // new end updated
+            cnt++;
         }
         return cnt;
     }
