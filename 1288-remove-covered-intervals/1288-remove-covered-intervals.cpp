@@ -2,7 +2,7 @@ class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int n = intervals.size();
-        auto lambda = [](vector<int> vec1, vector<int> vec2) {
+        auto lambda = [](vector<int> &vec1, vector<int> &vec2) {
             if (vec1[0] == vec2[0]) {
                 return vec1[1] > vec2[1];
                 // if start is same, we choose the one with farthest endpoint
@@ -14,11 +14,11 @@ public:
         int cnt = 1; // one is always taken.
         int lastEnd = intervals[0][1];
         for (int i = 1; i < n; i++) {
-            if (intervals[i][1] <= lastEnd) {
+            if (intervals[i][1] > lastEnd) {
+                lastEnd = intervals[i][1]; // new end updated
+                cnt++;
+            } else
                 continue;
-            }
-            lastEnd = intervals[i][1]; // new end updated
-            cnt++;
         }
         return cnt;
     }
