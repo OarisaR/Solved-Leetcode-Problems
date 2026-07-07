@@ -1,7 +1,6 @@
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
-        vector<int> res;
         int n = intervals.size();
         auto lambda = [](vector<int> vec1, vector<int> vec2) {
             if (vec1[0] == vec2[0]) {
@@ -10,15 +9,16 @@ public:
                 // for a longer interval
             }
             return vec1[0] < vec2[0];
-        } ;sort(intervals.begin(), intervals.end(), lambda);
+        };
+        sort(intervals.begin(), intervals.end(), lambda);
         int cnt = 1; // one is always taken.
         int lastEnd = intervals[0][1];
         for (int i = 0; i < n; i++) {
-            if(intervals[i][1] > lastEnd){
+            if (intervals[i][1] > lastEnd) {
                 lastEnd = intervals[i][1]; // new end updated
                 cnt++;
-            }
-            else continue;
+            } else
+                continue;
         }
         return cnt;
     }
