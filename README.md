@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,4 +241,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
