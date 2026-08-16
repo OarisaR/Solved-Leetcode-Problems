@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0802-find-eventual-safe-states](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
