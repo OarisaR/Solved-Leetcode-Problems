@@ -6,27 +6,23 @@
 class Solution {
 public:
     vector<vector<int>> comb;
-    void back(int n, int k, int i, vector<int>& vec) {
+    void back(int &n, int k, int i, vector<int>& vec) {
         // base case
 
         if (k == 0) {
             comb.push_back(vec);
             return;
         }
-        if (i > n)
-            return;
-        // take
-        vec.push_back(i);
-        back(n, k - 1, i + 1, vec);
 
-        // not take
-        vec.pop_back();
-        back(n, k, i + 1, vec);
+        for (int j = i; j <= n; j++) {
+            vec.push_back(j);
+            back(n, k - 1, j + 1, vec);
+            vec.pop_back();
+        }
     }
     vector<vector<int>> combine(int n, int k) {
-        int i = 1;
         vector<int> vec;
-        back(n, k, i, vec);
+        back(n, k, 1, vec);
         return comb;
     }
 };
