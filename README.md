@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0077-combinations/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 ## Hash Table
