@@ -28,20 +28,19 @@ public:
         }
         return j == k * l; // reached end then true!
     }
-    void backtrack(string& s, string& curr, vector<bool>& canuse,
+    bool backtrack(string& s, string& curr, vector<bool>& canuse,
                    vector<int>& req, int k, int mx) {
-        if (curr.size() > mx)
-            return;
-        if ((curr.size() > res.size() ||
-             (curr.size() == res.size() && curr > res)) &&
-            isSubseq(s, curr, k)) {
-            // checking if size is equal then choose the lexico greater one and
-
-            res = curr; // better ans
+        if (curr.size() == mx) {
+            if (isSubseq(s, curr, k)) {
+                res = curr; // blind assign because we handled the largest one and lexico greater one
+                return true;
+            }
+            return false;
         }
 
         // generate more
-        for (int i = 0; i < 26; i++) {
+        for (int i = 25; i >= 0; i--) {
+            // starting from reverse will enable to find the larger one first
             if (canuse[i] == false || req[i] == 0)
                 continue;
             // take
@@ -50,12 +49,14 @@ public:
             req[i]--;
 
             // explore
-            backtrack(s, curr, canuse, req, k, mx);
+            if(backtrack(s, curr, canuse, req, k, mx)) return true;
 
             // undo
             curr.pop_back();
             req[i]++;
+            
         }
+        return false;
     }
     string longestSubsequenceRepeatedK(string s, int k) {
         int freq[26] = {};
@@ -74,7 +75,11 @@ public:
         }
         int mx = n / k;
         string curr;
-        backtrack(s, curr, canuse, req, k, mx);
+        for (int l = mx; l >= 0; l--) {
+            vector<int> tempfreq = req;
+            if (backtrack(s, curr, canuse, tempfreq, k, l))
+                return res;
+        }
         return res;
     }
 };
