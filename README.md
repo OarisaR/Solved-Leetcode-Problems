@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0077-combinations](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0077-combinations/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Breadth-First Search
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1854-maximum-population-year](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1854-maximum-population-year/) | Easy |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Rolling Hash
@@ -268,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 <!---LeetCode Topics End-->
