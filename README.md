@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [0207-course-schedule](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
@@ -264,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
