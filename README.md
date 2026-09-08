@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3870-count-commas-in-range](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
