@@ -16,6 +16,6 @@ public:
         n-=rem; // 2000
 
         // answer is remainder + n + 1
-        return n == 1000 ? rem + 1 : (n - 1000) + 1 + rem;
+        return (n - 1000) + 1 + rem;
     }
 };
