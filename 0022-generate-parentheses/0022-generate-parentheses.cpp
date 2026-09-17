@@ -11,19 +11,18 @@ class Solution {
 public:
     vector<string> res;
     bool valid(string& curr) {
-        stack<char> st;
+        int cnt = 0;
         for (int i = 0; i < curr.size(); i++) {
             if (curr[i] == '(') {
-                st.push(curr[i]);
+                cnt++;
             } else if (curr[i] == ')') {
-                if (st.empty()) {
-                    return false;
-                }
-                st.pop();
+                cnt--;
+            }
+            if (cnt < 0) {
+                return false;
             }
         }
-
-        return st.empty();
+        return cnt == 0;
     }
     void solve(string& curr, int n) {
         if (curr.size() == 2 * n) {
