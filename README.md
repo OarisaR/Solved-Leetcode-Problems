@@ -92,12 +92,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
@@ -283,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
