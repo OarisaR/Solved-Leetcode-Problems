@@ -10,40 +10,29 @@ insights
 class Solution {
 public:
     vector<string> res;
-    bool valid(string& curr) {
-        int cnt = 0;
-        for (int i = 0; i < curr.size(); i++) {
-            if (curr[i] == '(') {
-                cnt++;
-            } else if (curr[i] == ')') {
-                cnt--;
-            }
-            if (cnt < 0) {
-                return false;
-            }
-        }
-        return cnt == 0;
-    }
-    void solve(string& curr, int n) {
+
+    void solve(string& curr, int n, int open, int close) {
         if (curr.size() == 2 * n) {
-            if (valid(curr)) {
-                res.push_back(curr);
-            }
+
+            res.push_back(curr);
+
             return;
         }
-        curr.push_back('(');
-        solve(curr, n);
-
-        curr.pop_back();
-
-        curr.push_back(')');
-        solve(curr, n);
-
-        curr.pop_back();
+        if (open < n) {
+            curr.push_back('(');
+            solve(curr, n, open+1, close);
+            curr.pop_back();
+        }
+        if (close < open) {
+            curr.push_back(')');
+            solve(curr, n,open, close+1);
+            curr.pop_back();
+        }
     }
     vector<string> generateParenthesis(int n) {
         string curr = "";
-        solve(curr, n);
+        int open = 0, close = 0;
+        solve(curr, n, open, close);
         return res;
     }
 };
