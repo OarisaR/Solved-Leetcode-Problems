@@ -9,22 +9,23 @@ public:
         int n = s.size();
         char q = '?';
         int i = 0;
-        string tmp;
+        
         string res = "";
         while (i < n) {
             if (s[i] == '(') {
                 i++;
-                while (s[i] != ')' && i < n) {
+                string tmp;
+                while ( i < n  &&  s[i] != ')' ) {
                     tmp.push_back(s[i]);
                     i++;
                 }
                 if (s[i] == ')') {
-                    if (mp.find(tmp) == mp.end())
+                     auto it = mp.find(tmp);
+                    if (it == mp.end())
                         res += q;
                     else
-                        res += mp[tmp];
+                        res += it->second;
 
-                    tmp = "";
                 }
             } else {
                 res += s[i];
