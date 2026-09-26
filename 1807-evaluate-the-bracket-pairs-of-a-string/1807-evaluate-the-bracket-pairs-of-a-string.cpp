@@ -2,7 +2,7 @@ class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         // for fast lookup map works
-        map<string, string> mp;
+        unordered_map<string, string> mp;
         for (auto& vec : knowledge) {
             mp[vec[0]] = vec[1];
         }
