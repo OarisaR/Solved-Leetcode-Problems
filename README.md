@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0897-increasing-order-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Tree
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -242,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
