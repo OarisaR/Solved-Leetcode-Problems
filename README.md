@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Two Pointers
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## String
