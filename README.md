@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
