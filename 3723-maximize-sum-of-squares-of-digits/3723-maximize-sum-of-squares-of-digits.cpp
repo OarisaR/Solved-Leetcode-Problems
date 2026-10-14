@@ -12,25 +12,19 @@ public:
     string maxSumOfSquares(int num, int sum) {
         if (sum > 9 * num)
             return ""; // no valid num
-        string res;
-        while (sum > 0) {
+        string res(num,0);
+        for(int i = 0; i < num ; i++){
+            if(sum == 0) res[i] = '0';
             if (sum > 9) {
                 sum -= 9;
-                res.push_back('9');
+                res[i] = '9';
 
             } else {
                 char sumstr = sum + '0';
-                res.push_back(sumstr);
+                res[i] = sumstr;
                 sum = 0; // we took the entire sum;
             }
         }
-        if (res.size() == num)
-            return res;
-        int rem_len = num - res.size();
-        for (int i = 0; i < rem_len; i++) {
-            res.push_back('0');
-        }
-
         return res;
     }
 };
