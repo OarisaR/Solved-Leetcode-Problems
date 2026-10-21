@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
