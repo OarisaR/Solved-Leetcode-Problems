@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bucket Sort
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
