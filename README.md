@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [2409-count-days-spent-together](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+| [2409-count-days-spent-together](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Rolling Hash
