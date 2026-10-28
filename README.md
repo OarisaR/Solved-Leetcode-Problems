@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
