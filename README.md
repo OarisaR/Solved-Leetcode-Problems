@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bucket Sort
