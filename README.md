@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
 | [0389-find-the-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1094-car-pooling](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0164-maximum-gap/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0494-target-sum/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0731-my-calendar-ii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0731-my-calendar-ii/) | Medium |
