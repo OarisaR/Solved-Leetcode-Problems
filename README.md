@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
