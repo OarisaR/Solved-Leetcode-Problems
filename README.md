@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Backtracking
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2848-points-that-intersect-with-cars](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OarisaR/Solved-Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
